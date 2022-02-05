@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    Teste do adrian zimboide
+    Commit novo para teste GCP - Sabrina Fedida
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
